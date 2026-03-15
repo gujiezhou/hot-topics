@@ -1,1 +1,111 @@
-{"test": "ok"}
+{
+  "lastUpdate": "2026-03-15T22:36:01.220834",
+  "count": 15,
+  "items": [
+    {
+      "title": "工业级AI视频厂商再融资，掌握120TB独家数据，营收破亿 | 硬氪首发",
+      "link": "https://36kr.com/p/3723669408987782?f=rss",
+      "description": "",
+      "published": "",
+      "source_url": "https://36kr.com/feed"
+    },
+    {
+      "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
+      "link": "https://36kr.com/p/3722669939931524?f=rss",
+      "description": "",
+      "published": "",
+      "source_url": "https://36kr.com/feed"
+    },
+    {
+      "title": "中国最大家电展上，一批想帮你做家务的机器人来了！",
+      "link": "https://36kr.com/p/3722882943334789?f=rss",
+      "description": "",
+      "published": "",
+      "source_url": "https://36kr.com/feed"
+    },
+    {
+      "title": "腾讯龙虾团队答疑：龙虾的热度确实高过能力，但它是普通人拥抱 AI 浪潮的第一步",
+      "link": "https://36kr.com/p/3721355722684804?f=rss",
+      "description": "",
+      "published": "",
+      "source_url": "https://36kr.com/feed"
+    },
+    {
+      "title": "前华为北美高管团队创业AIDC算力电源赛道，正推进与国际大厂合作 | 硬氪首发",
+      "link": "https://36kr.com/p/3722683801909641?f=rss",
+      "description": "",
+      "published": "",
+      "source_url": "https://36kr.com/feed"
+    },
+    {
+      "title": "小鼠实验显示在类似火星的重力条件下肌肉会流失",
+      "link": "https://www.solidot.org/story?sid=83768",
+      "description": "",
+      "published": "",
+      "source_url": "https://www.solidot.org/index.rss"
+    },
+    {
+      "title": "Meta 将移除 Instagram 私信的端对端加密功能",
+      "link": "https://www.solidot.org/story?sid=83767",
+      "description": "",
+      "published": "",
+      "source_url": "https://www.solidot.org/index.rss"
+    },
+    {
+      "title": "Digg 重启失败",
+      "link": "https://www.solidot.org/story?sid=83766",
+      "description": "",
+      "published": "",
+      "source_url": "https://www.solidot.org/index.rss"
+    },
+    {
+      "title": "英特尔芯片加速全同态加密计算",
+      "link": "https://www.solidot.org/story?sid=83765",
+      "description": "",
+      "published": "",
+      "source_url": "https://www.solidot.org/index.rss"
+    },
+    {
+      "title": "真菌对生命至关重要",
+      "link": "https://www.solidot.org/story?sid=83764",
+      "description": "",
+      "published": "",
+      "source_url": "https://www.solidot.org/index.rss"
+    },
+    {
+      "title": "A Theory of the World as run by large adult children",
+      "link": "https://tomclancy.info/harold-and-george.html",
+      "description": "",
+      "published": "",
+      "source_url": "https://news.ycombinator.com/rss"
+    },
+    {
+      "title": "100 hour gap between a vibecoded prototype and a working product",
+      "link": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+      "description": "",
+      "published": "",
+      "source_url": "https://news.ycombinator.com/rss"
+    },
+    {
+      "title": "A Visual Introduction to Machine Learning (2015)",
+      "link": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "description": "",
+      "published": "",
+      "source_url": "https://news.ycombinator.com/rss"
+    },
+    {
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "description": "",
+      "published": "",
+      "source_url": "https://news.ycombinator.com/rss"
+    },
+    {
+      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+      "link": "https://signet.watch",
+      "description": "",
+      "published": "",
+      "source_url": "https://news.ycombinator.com/rss"
+    }
+  ]
+}
