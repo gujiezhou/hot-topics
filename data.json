@@ -1,108 +1,38 @@
 {
-  "lastUpdate": "2026-03-16T20:00:06.091733",
-  "count": 15,
+  "lastUpdate": "2026-03-18T20:00:05.599154",
+  "count": 5,
   "items": [
     {
-      "title": "地平线芯片负责人将离职，公司走向软硬一体架构｜36氪独家",
-      "link": "https://36kr.com/p/3725426197150345?f=rss",
-      "description": "",
-      "published": "",
-      "source_url": "https://36kr.com/feed"
-    },
-    {
-      "title": "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发",
-      "link": "https://36kr.com/p/3717366669948297?f=rss",
-      "description": "",
-      "published": "",
-      "source_url": "https://36kr.com/feed"
-    },
-    {
-      "title": "36氪晚报｜韩元对美元汇率收盘价跌至近18年来最低；WTI原油上破100美元/桶；抖音旗下科技公司在深圳成立新信息技术公司",
-      "link": "https://36kr.com/p/3725424173857155?f=rss",
-      "description": "",
-      "published": "",
-      "source_url": "https://36kr.com/feed"
-    },
-    {
-      "title": "松下发布中国事业新战略：明星单品、套系家电加码，强调“Made by China”出海丨最前线",
-      "link": "https://36kr.com/p/3725245431839369?f=rss",
-      "description": "",
-      "published": "",
-      "source_url": "https://36kr.com/feed"
-    },
-    {
-      "title": "补齐AI板块核心拼图，网络基建「卖铲人」飞速创新登陆港交所",
-      "link": "https://36kr.com/p/3725233182062982?f=rss",
-      "description": "",
-      "published": "",
-      "source_url": "https://36kr.com/feed"
-    },
-    {
-      "title": "GDC 2026 访客减少三成",
-      "link": "https://www.solidot.org/story?sid=83783",
-      "description": "",
-      "published": "",
-      "source_url": "https://www.solidot.org/index.rss"
-    },
-    {
-      "title": "FSF 希望用户自由是 AI 公司版权诉讼的一个目标",
-      "link": "https://www.solidot.org/story?sid=83782",
-      "description": "",
-      "published": "",
-      "source_url": "https://www.solidot.org/index.rss"
-    },
-    {
-      "title": "英国涂鸦艺术家 Banksy 是否还应该保持匿名？",
-      "link": "https://www.solidot.org/story?sid=83781",
-      "description": "",
-      "published": "",
-      "source_url": "https://www.solidot.org/index.rss"
-    },
-    {
-      "title": "常压超导温度创下新纪录",
-      "link": "https://www.solidot.org/story?sid=83780",
-      "description": "",
-      "published": "",
-      "source_url": "https://www.solidot.org/index.rss"
-    },
-    {
-      "title": "逾四成日本人计划工作到 70 岁后",
-      "link": "https://www.solidot.org/story?sid=83779",
-      "description": "",
-      "published": "",
-      "source_url": "https://www.solidot.org/index.rss"
-    },
-    {
-      "title": "Canada's bill C-22 mandates mass metadata surveillance",
-      "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "title": "Rob Pike's 5 Rules of Programming",
+      "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
       "description": "",
       "published": "",
       "source_url": "https://news.ycombinator.com/rss"
     },
     {
-      "title": "How I write software with LLMs",
-      "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+      "title": "JPEG Compression",
+      "link": "https://www.sophielwang.com/blog/jpeg",
       "description": "",
       "published": "",
       "source_url": "https://news.ycombinator.com/rss"
     },
     {
-      "title": "The 49MB web page",
-      "link": "https://thatshubham.com/blog/news-audit",
+      "title": "Write up of my homebrew CPU build",
+      "link": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
       "description": "",
       "published": "",
       "source_url": "https://news.ycombinator.com/rss"
     },
     {
-      "title": "Chrome DevTools MCP (2025)",
-      "link": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "link": "https://nightingale.cafe/",
       "description": "",
       "published": "",
       "source_url": "https://news.ycombinator.com/rss"
     },
     {
-      "title": "Home Assistant waters my plants",
-      "link": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+      "title": "Mistral AI Releases Forge",
+      "link": "https://mistral.ai/news/forge",
       "description": "",
       "published": "",
       "source_url": "https://news.ycombinator.com/rss"
